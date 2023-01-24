@@ -3,4 +3,4 @@
 
 
 class square:
-"""Defines a square"""
+    """Defines a square"""
